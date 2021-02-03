@@ -1,2 +1,3 @@
 # LEGO_Python
-aaaaa
+
+書ける！
