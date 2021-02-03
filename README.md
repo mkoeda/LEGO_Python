@@ -5,4 +5,5 @@
 書ける！
 かけた！！
 
-# 
+
+[MINDSTORMS EV3 Support \| LEGO® Education](https://education.lego.com/en-us/product-resources/mindstorms-ev3/teacher-resources/python-for-ev3)
