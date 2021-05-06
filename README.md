@@ -8,10 +8,10 @@
 
 <pre>
 sampleprogram
-├Classroom
-├EV3-SW
-├MicroPython1
-├MicroPython2
+├── Classroom　Classroomのプログラムを保存しています．
+├── EV3-SW　EV3-SWのプログラムを保存しています．
+├── MicroPython1　MicroPython1のプログラムを保存しています．
+├── MicroPython2　MicroPython2のプログラムを保存しています．
 └── README.md
 </pre>
 
