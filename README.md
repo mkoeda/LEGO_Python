@@ -11,8 +11,7 @@ sampleprogram
 ├── Classroom　Classroomのプログラムを保存しています．
 ├── EV3-SW　EV3-SWのプログラムを保存しています．
 ├── MicroPython1　MicroPython1のプログラムを保存しています．
-├── MicroPython2　MicroPython2のプログラムを保存しています．
-└── README.md
+└── MicroPython2　MicroPython2のプログラムを保存しています．
 </pre>
 
 
