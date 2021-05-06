@@ -6,11 +6,14 @@
 
 # 構成
 <pre>
-sampleprogram
-├── Classroom　Classroom用ののプログラムを保存しています．
-├── EV3-SW　EV3-SW用のプログラムを保存しています．
-├── MicroPython1　MicroPython1用のプログラムを保存しています．
-└── MicroPython2　MicroPython2用のプログラムを保存しています．
+.
+├── powerpoint　講義用のpowerpointを保存しています．
+└── sampleprogram
+　　　 ├── Classroom　Classroom用ののプログラムを保存しています．
+　　　 ├── EV3-SW　EV3-SW用のプログラムを保存しています．
+　　　 ├── MicroPython1　MicroPython1用のプログラムを保存しています．
+　　　 └── MicroPython2　MicroPython2用のプログラムを保存しています．
+
 </pre>
 
 # 参考
