@@ -7,7 +7,7 @@
 # 構成
 <pre>
 .
-├── powerpoint　講義用のpowerpointを保存しています．
+├── powerpoint　説明用のpowerpointを保存しています．
 └── sampleprogram
 　　　 ├── Classroom　Classroom用のプログラムを保存しています．
 　　　 ├── EV3-SW　EV3-SW用のプログラムを保存しています．
