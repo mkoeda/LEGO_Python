@@ -2,7 +2,7 @@
 
 <img src="https://github.com/mkoeda/LEGO_Python/blob/main/bookcover.jpg" width="25%">
 
-[『これからのロボットプログラミング入門　Ｐｙｔｈｏｎで動かすＭＩＮＤＳＴＯＲＭＳ　ＥＶ３』（上田　悦子，小枝　正直，中村　恭之）｜講談社BOOK倶楽部](https://bookclub.kodansha.co.jp/product?item=0000310663)
+[『これからのロボットプログラミング入門　Pythonで動かすMINDSTORMS EV3』 上田悦子／小枝正直／中村恭之・著｜講談社サイエンティフィク](https://www.kspub.co.jp/book/detail/5186183.html)
 
 # 構成
 <pre>
