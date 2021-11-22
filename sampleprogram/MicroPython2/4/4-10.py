@@ -1,6 +1,5 @@
 #!/usr/bin/env pybricks-micropython
 from common import *
-import math
 
 # 左右のモーターのインスタンス
 left_motor = Motor(Port.B)
