@@ -20,7 +20,7 @@ def detect_line():
 left_motor = Motor(Port.B)
 right_motor = Motor(Port.C)
 wheel_diameter = 56
-axle_track =123
+axle_track = 123
 robot = DriveBase(left_motor, right_motor, wheel_diameter, axle_track)
 
 _thread.start_new_thread(detect_line, ())
