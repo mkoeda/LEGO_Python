@@ -21,7 +21,6 @@ robot.straight(100)
 #  100mm後退
 robot.straight(-100)
 
-
 # 右に90degスピンターン
 robot.turn(90)
 # 左に90degスピンターン
