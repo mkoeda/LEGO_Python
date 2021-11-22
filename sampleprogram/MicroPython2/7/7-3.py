@@ -17,7 +17,6 @@ robot = DriveBase(left_motor, right_motor, wheel_diameter, axle_track)
 for n in range(5):
     # -100～100の乱数を発生させる
     steering = random.randrange(-100, 100)
-
     # 前進速度100mm/s，回転角速度steeringで1000ミリ秒間だけ移動
     robot.drive(100, steering)
     wait(1000)
