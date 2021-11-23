@@ -1,8 +1,6 @@
 #!/usr/bin/env pybricks-micropython
 from common import *
 
-ev3 = EV3Brick()
-
 color_sensor = ColorSensor(Port.S3)
 
 left_motor = Motor(Port.B)

@@ -1,8 +1,6 @@
 #!/usr/bin/env pybricks-micropython
 from common import *
 
-ev3 = EV3Brick()
-
 gyro_sensor = GyroSensor(Port.S2)
 
 left_motor = Motor(Port.B)

@@ -1,8 +1,6 @@
 #!/usr/bin/env pybricks-micropython
 from common import *
 
-ev3 = EV3Brick()
-
 ultrasonic_sensor = UltrasonicSensor(Port.S4)
 
 left_motor = Motor(Port.B)

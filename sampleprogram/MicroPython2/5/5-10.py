@@ -1,8 +1,6 @@
 #!/usr/bin/env pybricks-micropython
 from common import *
 
-ev3 = EV3Brick()
-
 left_motor = Motor(Port.B)
 right_motor = Motor(Port.C)
 robot = DriveBase(left_motor, right_motor, wheel_diameter=55.5, axle_track=104)
