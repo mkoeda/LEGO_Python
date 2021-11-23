@@ -1,5 +1,6 @@
 #!/usr/bin/env pybricks-micropython
 from common import *
+import time
 
 left_motor = Motor(Port.B)
 right_motor = Motor(Port.C)
@@ -9,7 +10,9 @@ robot = DriveBase(left_motor, right_motor, wheel_diameter, axle_track)
 
 color_sensor = ColorSensor(Port.S3)
 
-while True:
+t0 = time.time()
+
+while time.time()-t0 < 10:
     if color_sensor.reflection() <= 50 :
         robot.drive(50, 30)
     else:
