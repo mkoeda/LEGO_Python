@@ -1,8 +1,6 @@
 #!/usr/bin/env pybricks-micropython
 from common import *
 
-ev3 = EV3Brick()
-
 touch_sensor = TouchSensor(Port.S1)
 
 left_motor = Motor(Port.B)
