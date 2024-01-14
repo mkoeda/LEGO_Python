@@ -17,10 +17,10 @@
 </pre>
 
 # 参考
-[教育版レゴ® マインドストーム® EV3　サポート](https://education.lego.com/ja-jp/product-resources/mindstorms-ev3/)
+[教育版レゴ® マインドストーム® EV3　サポート](https://education.lego.com/ja-jp/product-resources/mindstorms-ev3/){:target="_blank"}
 
-[MINDSTORMS ソフトウェアをダウンロード](https://education.lego.com/ja-jp/downloads/retiredproducts/mindstorms-ev3-lab/software/)
+[MINDSTORMS ソフトウェアをダウンロード](https://education.lego.com/ja-jp/downloads/retiredproducts/mindstorms-ev3-lab/software/){:target="_blank"}
 
-[トレーニングモデル組立説明書](https://education.lego.com/ja-jp/product-resources/mindstorms-ev3/ダウンロード/組立説明書／サンプルプログラム/#building-instructions-for-robot-educator)
+[トレーニングモデル組立説明書](https://education.lego.com/ja-jp/product-resources/mindstorms-ev3/ダウンロード/組立説明書／サンプルプログラム/#building-instructions-for-robot-educator){:target="_blank"}
 
-[Open Roberta Lab](https://lab.open-roberta.org/)
+[Open Roberta Lab](https://lab.open-roberta.org/){:target="_blank"}
