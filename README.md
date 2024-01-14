@@ -19,4 +19,8 @@
 # 参考
 [教育版レゴ® マインドストーム® EV3　サポート](https://education.lego.com/ja-jp/product-resources/mindstorms-ev3/)
 
+[MINDSTORMS ソフトウェアをダウンロード](https://education.lego.com/ja-jp/downloads/retiredproducts/mindstorms-ev3-lab/software/)
+
 [トレーニングモデル組立説明書](https://education.lego.com/ja-jp/product-resources/mindstorms-ev3/ダウンロード/組立説明書／サンプルプログラム/#building-instructions-for-robot-educator)
+
+[Open Roberta Lab](https://lab.open-roberta.org/)
