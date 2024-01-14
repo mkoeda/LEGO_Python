@@ -19,4 +19,4 @@
 # 参考
 [教育版レゴ® マインドストーム® EV3　サポート](https://education.lego.com/ja-jp/product-resources/mindstorms-ev3/)
 
-[MINDSTORMS EV3 Support \| LEGO® Education](https://education.lego.com/en-us/product-resources/mindstorms-ev3/teacher-resources/python-for-ev3)
+[トレーニングモデル組立説明書](https://education.lego.com/ja-jp/product-resources/mindstorms-ev3/ダウンロード/組立説明書／サンプルプログラム/#building-instructions-for-robot-educator)
