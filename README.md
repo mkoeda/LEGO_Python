@@ -2,7 +2,7 @@
 
 <img src="https://github.com/mkoeda/LEGO_Python/blob/main/bookcover_2nd.jpg" width="50%">
 
-[『これからのロボットプログラミング入門　第2版　Pythonで動かすMINDSTORMS EV3』 上田悦子／小枝正直／中村恭之・著｜講談社サイエンティフィク](https://www.kspub.co.jp/book/detail/5278192.html)
+![『これからのロボットプログラミング入門　第2版　Pythonで動かすMINDSTORMS EV3』 上田悦子／小枝正直／中村恭之・著｜講談社サイエンティフィク](https://www.kspub.co.jp/book/detail/5278192.html)
 
 # 構成
 <pre>
@@ -17,10 +17,10 @@
 </pre>
 
 # 参考
-[教育版レゴ® マインドストーム® EV3　サポート](https://education.lego.com/ja-jp/product-resources/mindstorms-ev3/){:target="_blank"}
+![教育版レゴ® マインドストーム® EV3　サポート](https://education.lego.com/ja-jp/product-resources/mindstorms-ev3/)
 
-[MINDSTORMS ソフトウェアをダウンロード](https://education.lego.com/ja-jp/downloads/retiredproducts/mindstorms-ev3-lab/software/){:target="_blank"}
+![MINDSTORMS ソフトウェアをダウンロード](https://education.lego.com/ja-jp/downloads/retiredproducts/mindstorms-ev3-lab/software/)
 
-[トレーニングモデル組立説明書](https://education.lego.com/ja-jp/product-resources/mindstorms-ev3/ダウンロード/組立説明書／サンプルプログラム/#building-instructions-for-robot-educator){:target="_blank"}
+![トレーニングモデル組立説明書](https://education.lego.com/ja-jp/product-resources/mindstorms-ev3/ダウンロード/組立説明書／サンプルプログラム/#building-instructions-for-robot-educator)
 
-[Open Roberta Lab](https://lab.open-roberta.org/){:target="_blank"}
+![Open Roberta Lab](https://lab.open-roberta.org/)
