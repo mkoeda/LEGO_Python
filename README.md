@@ -1,6 +1,6 @@
 # 「これからのロボットプログラミング入門 Pythonで動かすMINDSTORMS EV3」サポートページ
 
-<img src="https://github.com/mkoeda/LEGO_Python/blob/main/bookcover.jpg" width="25%">
+<img src="https://github.com/mkoeda/LEGO_Python/blob/main/bookcover_2nd.jpg" width="25%">
 
 [『これからのロボットプログラミング入門　第2版　Pythonで動かすMINDSTORMS EV3』 上田悦子／小枝正直／中村恭之・著｜講談社サイエンティフィク](https://www.kspub.co.jp/book/detail/5278192.html)
 
